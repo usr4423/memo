@@ -1,0 +1,52 @@
+雑多なメモ
+
+・arch linuxの日本語化について、未だ解決できていないこと
+
+pdfに関しては、「TeXの最近の動向」を参考にすることで、evinceを用いて日本語で表示させることができた。
+ しかし、いまだpxdviでの表示では日本語が化けてしまう。一応参考にしたものは
+ http://oku.edu.mie-u.ac.jp/tex/mod/forum/discuss.php?d=1120
+ である。
+ 良くわからないけれど、http://vraisamis.hatenadiary.jp/entry/2013/11/24/214503 とかhttp://phys-diary.blogspot.jp/2012/10/167-pxdvitexlive-2012.htmlとかが参考になるんじゃないかなと思っている。
+
+ ・「[Emacs][Vine][Linux] シェルスクリプトモードのショートカットが便利過ぎるのでまとめてみた」
+  http://d.hatena.ne.jp/munepi/20100612/shellscriptmode
+  シェルスクリプトを書く際に、Emacsで補完をさせようと思った時に使えそう
+
+ ・「Emacsのトラノマキ」連載第09回「auto-completeを使おう」(松山智大)
+ http://dev.ariel-networks.com/wp/documents/aritcles/emacs/part9
+  cがおかしかったので参考にしようと思う
+
+ ・「日本語環境構築とフォント設定」
+ http://spxi.ie-t.net/archlinux/lang.html
+ フォントはここを参照してみるのもいいかもしれない
+
+・「Arch Linuxをインストールした時に打ったコマンドのメモ」
+ http://blog.mwsoft.jp/article/95231043.html
+
+・「Change default login manager on Fedora 18」
+ http://superuser.com/questions/615392/change-default-login-manager-on-fedora-18
+ wmのデフォルトをsystemctlを用いて替える方法
+
+・「ibus-skk で句点を "," に,読点を "." に (2011/08/04)」
+ http://www.ice.is.kit.ac.jp/~umehara/misc/comp/20110804.html
+
+arch linux + xmonad をwifiでネットにつなごうという試み
+
+・「ArchLinux の Wi-Fi 設定」
+ http://pig.hatenadiary.com/entry/2014/02/09/223748
+
+・「ArchLinux インストール後の設定メモ」
+ http://futurismo.biz/archives/2488
+
+・「Arch Linuxインストールメモ 2013-07-15」
+ http://www.garunimo.com/program/linux/corumn-linux31.xhtml
+
+・「[Solved] NetworkManager in xmonad」
+  https://bbs.archlinux.org/viewtopic.php?id=135963
+
+・「[SOLVED] Xmonad and NetworkManager」
+ http://ubuntuforums.org/showthread.php?t=843341
+
+補完関連
+http://d.hatena.ne.jp/higepon/20110516/1305517419
+http://qiita.com/akira-hamada/items/81e5f54f52950236542b

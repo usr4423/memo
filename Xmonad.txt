@@ -1,0 +1,47 @@
+Xwindow manager の Xmonadに関するこれからやりたいことを、URLと共に保存をしておこうかと思う。
+
+・「関数型ウィンドウマネージャ「XMonad」を使いこなそう」
+http://wise9.jp/archives/3327
+ Xmonadの基本的なインストール方法を説明した後、設定ファイルをいじることでできる機能紹介のような感じ。インストール直後には必要ないかもしてない。
+
+・「[ubuntu]xmonadを使ってみる。」
+http://d.hatena.ne.jp/h_iijima/20110301/1298958399
+ubuntu上でのxmonadに関する情報をまとめている。設定ファイルの例の位置(/usr/share/doc/libghc6-xmonad-doc/examples/xmonad.hs.gz)が乗っているが、たぶんそれぞれの環境ごとにlocateかfindした方がいい気がする
+
+・「Xmonad (日本語)」
+ ttps://wiki.archlinux.org/index.php/Xmonad_(%E6%97%A5%E6%9C%AC%E8%AA%9E)
+ archの日本語wikiのXmonadに関するページ。未だwikiには慣れない。
+
+・「Debian 上で XMonad を利用。 Terminal は urxvt」
+http://qiita.com/cuzic/items/7963a6d648d3d6c947e8
+ debian上でのxmonadについて。xmonadの設定ファイルが置いてあるが、これはなれてからでないと見ていてちかちかするだけだと思う。
+
+・「donatello/xmonad-conf」
+ https://github.com/donatello/xmonad-conf
+ 短いxmonadの設定ファイルが置いてあるため、最初の方に参照しようと思う。
+
+・「UbuntuにおけるXmonadのインストールと使い方」
+ http://blog.blueblack.net/item_422
+ xmodbarについても解説してある
+
+zen2, conky, その他について
+
+dzen2及びconkyを使うことで、システムモニタができるらしいのだけれど、そのインストールの方法も書いてあるサイトを主にまとめる
+
+・「xmonadとHaskell(その1)」
+ http://nekolinux.blogspot.jp/2013/08/xmonadhaskell_2885.html
+ xmonadとhaskellについて、導入からいくつかに分けて説明されている。
+
+・「Simple guide to configure xmonad, dzen2 and conky」
+ http://thinkingeek.com/2011/11/21/simple-guide-configure-xmonad-dzen2-conky/ 
+ Xmonad, dzen2, conkyのインストールと、設定が書いてある。しかし、設定自体が長くよくわからないため、他のサイトから始めた方がいいのかもしれない
+
+・「タイル型ウィンドウマネージャという新たな世界観に衝撃を受けた!XmonadをつかってワクワクCUI生活」
+ http://futurismo.biz/archives/2165
+ 公開日:2014年1月19日 最終更新日:2014年09月01日 であるので、新しめの情報が手に入りそう。細かく情報がまとめてあるので、参照用にいいかもしれない。
+
+・「My Arch Linux desktop with XMonad」
+ https://www.youtube.com/watch?v=8jULGE0rq8M
+ http://www.linuxandlife.com/2011/11/how-to-configure-xmonad-arch-linux.html
+ 最終的にはこれっぽいことがしたい。グラフィックはここまでなくていいんだけどね。
+ 

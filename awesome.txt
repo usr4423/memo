@@ -1,0 +1,13 @@
+Xwindow manager の awesomeに関するこれからやりたいことを、URLと共に保存をしておこうかと思う。
+
+・「今日からはじめるawesomeチュートリアル (3.4版)」
+http://projects.tsuntsun.net/~nabeken/diary/Awesome/tutorial-1.html
+ 丁寧な説明で簡潔にまとまっている。一番下にあるまとめのコマンドは役に立つこと多し。
+
+ ・「タイル型ウィンドウマネージャ awesomeとXmonadの比較」
+ http://blog.blueblack.net/item_419
+  それぞれのひかく。
+
+・「改めてXmonadに挑戦するもawesomeに戻った」
+http://epian-wiki.appspot.com/wiki/Memo/20140102021708/%E6%94%B9%E3%82%81%E3%81%A6Xmonad%E3%81%AB%E6%8C%91%E6%88%A6%E3%81%99%E3%82%8B%E3%82%82awesome%E3%81%AB%E6%88%BB%E3%81%A3%E3%81%9F
+ xmonadとawesomeについて、その悪い点と良い点をまとめてある。
