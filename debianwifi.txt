@@ -1,0 +1,8 @@
+「debian unstableでgo! 無線LAN設定」
+ http://penguin.tantin.jp/unstable/%E7%84%A1%E7%B7%9ALAN%E8%A8%AD%E5%AE%9A.html
+「Debian/Debian 7 Wheezy のWifi設定・Broadcom」
+ http://linux.just4fun.biz/Debian/Debian%207%20Wheezy%20%E3%81%AEWifi%E8%A8%AD%E5%AE%9A%E3%83%BBBroadcom.html
+「Debian wiki:WiFiHowToUse」
+ https://wiki.debian.org/WiFi/HowToUse
+「How to manage wi-fi connections?」
+ https://faq.i3wm.org/question/1623/how-to-manage-wi-fi-connections/
