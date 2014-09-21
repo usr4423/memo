@@ -6,3 +6,15 @@
  https://wiki.debian.org/WiFi/HowToUse
 「How to manage wi-fi connections?」
  https://faq.i3wm.org/question/1623/how-to-manage-wi-fi-connections/
+
+「Debian Wiki:NetworkManager」
+ https://wiki.debian.org/NetworkManager
+
+「OS無しのBTO ノートPCにdebian (sid)をインストールした時の手順」
+ http://qiita.com/regonn/items/dd32fb82125b59473ade
+
+・「Insufficient privileges in NetworkManager with xmonad」
+ http://unix.stackexchange.com/questions/33923/insufficient-privileges-in-networkmanager-with-xmonad
+
+・「[SOLVED] Xmonad and NetworkManager」
+ http://ubuntuforums.org/showthread.php?t=843341

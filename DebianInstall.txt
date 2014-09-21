@@ -1,0 +1,13 @@
+・「Debianのインストールを自動化」
+ http://www.nofuture.tv/linux/debianautoinstall
+ preseedファイルを作って、インストールを自動化
+
+・「シェルスクリプトでDebian wheezyのインストール自動化」
+ http://d.zinrai.info/blog/html/2013/09/07/debian_wheezy_pxeboot.html
+ シェルスクリプト版
+
+・「Minimal Debian - 07 日本語入力環境のインストール」
+ http://4jiokisoft.blogspot.jp/2013/11/minimal-debian-07.html
+
+・「SLiM (日本語)」
+ https://wiki.archlinux.org/index.php/SLiM_(%E6%97%A5%E6%9C%AC%E8%AA%9E)

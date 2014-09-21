@@ -24,6 +24,10 @@ http://qiita.com/cuzic/items/7963a6d648d3d6c947e8
  http://blog.blueblack.net/item_422
  xmodbarについても解説してある
 
+・「Haskell に興味がある人向け xmonad 設定ガイド」
+ http://blog.drmn.jp/2013/04/haskell-xmonad.html
+ 簡単な設定方法
+
 zen2, conky, その他について
 
 dzen2及びconkyを使うことで、システムモニタができるらしいのだけれど、そのインストールの方法も書いてあるサイトを主にまとめる

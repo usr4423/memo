@@ -1,0 +1,7 @@
+・「Jason Sanders,Edward Kandrot-CUDA by Example 」
+ http://ge.tt/75KXaFa/v/2
+ Cudaの基本的な本っぽい
+
+・「GPUコンピューティングおよびCUDAについて」
+ http://www.gdep.jp/page/view/248
+ 連載。GPUについてまとまっている

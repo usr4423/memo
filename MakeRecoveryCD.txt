@@ -1,0 +1,18 @@
+・「Debian Linux の OneCD(ライブDVD)化手順」
+ http://wikiwiki.jp/disklessfun/?onecddebian
+
+・「MondoRescueでさくらのVPSのDebianをVMwareの仮想マシンに持ってきた」
+ http://blog.makotokw.com/2013/09/26/mondorescue%E3%81%A7%E3%81%95%E3%81%8F%E3%82%89%E3%81%AEvps%E3%81%AEdebian%E3%82%92vmware%E3%81%AE%E4%BB%AE%E6%83%B3%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%AB%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F/
+ Mondo Rescueを使ったバックアップ作成方法
+
+・「MondoRescue/Debianへのインストール」
+ http://vok.paburica.com/index.php?MondoRescue%2FDebian%E3%81%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB
+ >Mondo RescueMondo Rescueのインストール
+
+・「フルバックアップ - Mondo Rescue」
+ http://tech.hara96.com/home/mondo-rescue
+ 最近の奴。
+
+・「緊急時に備えてリカバリDVDを作る 」
+ http://www.atmarkit.co.jp/ait/articles/1101/31/news107.html
+ RedHat系用

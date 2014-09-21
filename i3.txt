@@ -1,0 +1,20 @@
+・「i3 (日本語)」
+ https://wiki.archlinux.org/index.php/I3_(%E6%97%A5%E6%9C%AC%E8%AA%9E)#.E3.82.B9.E3.83.86.E3.83.BC.E3.82.BF.E3.82.B9.E3.83.90.E3.83.BC.E3.81.AB.E3.82.A2.E3.82.A4.E3.82.B3.E3.83.B3.E3.83.95.E3.82.A9.E3.83.B3.E3.83.88
+
+・「No wifi in i3」
+ https://faq.i3wm.org/question/803/no-wifi-in-i3/
+
+・「How to manage wi-fi connections?」
+ https://faq.i3wm.org/question/1623/how-to-manage-wi-fi-connections/
+
+・「Documentation for i3 v4.8」
+ http://i3wm.org/docs/
+
+
+--Youtube
+
+・「i3 - Tiling Window Manager - Linux」
+ https://www.youtube.com/watch?v=yAq_Enj_d2Q
+
+・「i3 Window Manager Overview」
+ https://www.youtube.com/watch?v=pSPcQ7Sdoh4
