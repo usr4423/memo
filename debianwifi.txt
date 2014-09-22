@@ -18,3 +18,10 @@
 
 ・「[SOLVED] Xmonad and NetworkManager」
  http://ubuntuforums.org/showthread.php?t=843341
+
+・「NetworkManagerをやめてWicdに変更してみた」
+ http://blog.mamohacy.tribrid-jp.com/article/274067586.html
+ Ubuntuだけど、参考になりそう
+
+・「NetworkManager から Wicd へ」
+ http://near-unix.blogspot.jp/2010/10/networkmanager-wicd.html
