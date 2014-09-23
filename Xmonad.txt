@@ -62,3 +62,13 @@ http://d.masterq.net/?date=20110810
 
 ・「Xmonad/Config archive/John Goerzen's Configuration」
  http://www.haskell.org/haskellwiki/Xmonad/Config_archive/John_Goerzen%27s_Configuration
+
+・「XMonad.Actions.GridSelect」
+ http://xmonad.org/xmonad-docs/xmonad-contrib/XMonad-Actions-GridSelect.html
+
+・「~/.xmonad/xmonad.hs」
+ http://moparx.com/configs/xmonad.hs/
+
+・「xmonad + kde4にしてみた．」
+ http://or1ko.hatenablog.com/entry/20090125/1232879074
+ ちょっとふるそう
