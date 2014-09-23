@@ -25,3 +25,6 @@
 
 ・「NetworkManager から Wicd へ」
  http://near-unix.blogspot.jp/2010/10/networkmanager-wicd.html
+
+・「Debian wiki:WiFiHowToUse」--結果的に個々の情報を基にwicdを導入して解決した。
+ https://wiki.debian.org/WiFi/HowToUse#Wicd

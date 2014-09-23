@@ -50,3 +50,6 @@ arch linux + xmonad をwifiでネットにつなごうという試み
 補完関連
 http://d.hatena.ne.jp/higepon/20110516/1305517419
 http://qiita.com/akira-hamada/items/81e5f54f52950236542b
+
+
+・現在、Wifi,USB自動マウントについては一応解決済みであるので、残りはサウンドをどうにかすることと、GridSelect、Magnifierの設定をどうにかすることである。

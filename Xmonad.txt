@@ -72,3 +72,13 @@ http://d.masterq.net/?date=20110810
 ・「xmonad + kde4にしてみた．」
  http://or1ko.hatenablog.com/entry/20090125/1232879074
  ちょっとふるそう
+
+・「Archlinux Custom Xmonad Xmobar URXVT and ZSH」
+https://www.youtube.com/watch?v=KAqt86PU-T0
+
+・「How to display all running windows in xmonad ?(SOLVED)」
+ https://bbs.archlinux.org/viewtopic.php?id=89894
+ GridSelectはこれで行けそう
+
+・「xmonadを試す」
+ http://mikio.github.io/article/2012/09/28_xmonad.html

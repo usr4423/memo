@@ -1,6 +1,11 @@
-「debian unstableでgo! USBメモリを自動マウント」
- http://penguin.tantin.jp/unstable/USB%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%92%E8%87%AA%E5%8B%95%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88.html
 「LinuxでUSB外付けディスクを快適にマウントする」
  http://colspan.net/blog/2008/11/15222550.html
 「How do I mount a USB in plain XMonad?」
  http://www.techques.com/question/3-277639/How-do-I-mount-a-USB-in-plain-XMonad
+
+「debian unstableでgo! USBメモリを自動マウント」-----結果的に、個々の方法で解決した。
+ http://penguin.tantin.jp/unstable/USB%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%92%E8%87%AA%E5%8B%95%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88.html
+
+おんなじようなことを書いてある所
+「Automount USB devices with no desktop environment」
+http://debianelectronics.blogspot.jp/2012/11/automount-usb-devices-with-no-desktop.html
