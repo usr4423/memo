@@ -1,0 +1,2 @@
+・「Debian(Ubuntu)で コンソールに日本語表示してみた」
+ http://server-setting.info/debian/debian-console-japanease.html

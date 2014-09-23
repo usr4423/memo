@@ -1,0 +1,8 @@
+keymap
+・「DebianのconsoleでCAPSとコントロールキーを入れ替える」
+ http://www.daionet.gr.jp/~knok/diary/2011/03/23/1.html
+ XKBOPTIONS="ctrl:swapcaps"
+
+・「CapsキーをCtrlキーにする @Linux」
+ http://i94025.at.webry.info/201208/article_10.html
+ XKBOPTIONS="ctrl:nocaps"

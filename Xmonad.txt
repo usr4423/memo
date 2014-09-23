@@ -49,3 +49,16 @@ dzen2及びconkyを使うことで、システムモニタができるらしい�
  http://www.linuxandlife.com/2011/11/how-to-configure-xmonad-arch-linux.html
  最終的にはこれっぽいことがしたい。グラフィックはここまでなくていいんだけどね。
  
+-----------------------------------------------------------------
+以下、目的はGridSelect、Magnifier
+・「[haskell][xmonad]開発環境勉強会で刺激を受けてXMonadに乗り換えました」
+http://d.masterq.net/?date=20110810
+
+・「XMonad.Action.GridSelect spawnSelected with nice titles」
+ http://ixti.net/software/2013/09/07/xmonad-action-gridselect-spawnselected-with-nice-titles.html
+
+・「>XMonad.Layout.Magnifier」
+ http://xmonad.org/xmonad-docs/xmonad-contrib/XMonad-Layout-Magnifier.html
+
+・「Xmonad/Config archive/John Goerzen's Configuration」
+ http://www.haskell.org/haskellwiki/Xmonad/Config_archive/John_Goerzen%27s_Configuration
