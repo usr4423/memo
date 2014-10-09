@@ -53,3 +53,14 @@ http://qiita.com/akira-hamada/items/81e5f54f52950236542b
 
 
 ・現在、Wifi,USB自動マウントについては一応解決済みであるので、残りはサウンドをどうにかすることと、GridSelect、Magnifierの設定をどうにかすることである。
+----> 解決。コピペする際にインデントが大切であることを理解した
+
+-------------------thinkpad & debian & tach pad
+「ThinkPad X240のタッチパッドを無効化する設定(Debian Jessie)」
+http://www.xmisao.com/2014/01/16/thinkpad-x240-disable-touchpad.html
+
+「Thinkpad X240にDebian GNU/Linux jessieをインストールした」
+ http://qiita.com/sunaemon0/items/91ac37b4c9928874f077
+
+「How to configure new Lenovo x240 touchpad on Ubuntu 13.10」
+ http://mydevelopedworld.wordpress.com/2013/11/30/how-to-configure-new-lenovo-x240-touchpad-on-ubuntu-13-10/
