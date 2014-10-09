@@ -1,0 +1,23 @@
+「オススメなVimのプラグイン紹介」
+ http://alpaca.tc/blog/vim/plugins-best-of-vim-1.html
+
+「 eskk.vimをMacで使ってみた」
+ http://hamaco.hatenablog.jp/entry/20100708/1278598112
+
+「vimプラグインでよりよいコーディングを」
+ http://tech.kayac.com/archive/vim-plugin-coding.html
+
+「Vimで文章を書くときに便利なプラグイン」
+ http://d.hatena.ne.jp/osyo-manga/20111201/1322665228
+
+「Vim Advent Calendar 2011」
+ https://atnd.org/events/21925
+
+「neocomplcache.vim まとめ」
+ http://qiita.com/hide/items/229ff9460e75426a2d07
+
+「NeoBundle」
+ http://kaworu.jpn.org/vim/NeoBundle
+
+「unite.vim まとめ」
+ http://qiita.com/hide/items/77b9c1b0f29577d60397
